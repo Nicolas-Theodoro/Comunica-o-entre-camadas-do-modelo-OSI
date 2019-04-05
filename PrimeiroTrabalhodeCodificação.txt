@@ -1,0 +1,40 @@
+Amanda Gerardelli 92803 
+Gleisson  Oliveira 92974
+Nathanael Mendes 92738
+Nicolas Theodoro 94912
+Matheus Brocardo 94155
+
+
+Primeiro Trabalho de Codificação
+
+Trabalho desenvolvido com a linguagem de programação Python, orientada a objetos, foram feitas classes para cada camada, as classes estão relacionadas com encapsulamento. 
+
+
+-Aplicação 
+
+Aplicação está estanciando as outras camadas do Modelo Osi
+
+-Apresentação
+
+Recebe uma mensagem que é transmitida do objeto a = aplicação repassa mensagem aplicação e apresenta seu protocolo, e chama a sessão 
+
+-Sessão
+
+Recebe uma mensagem que é transmitida do objeto a = aplicação, repassa mensagem de a.aplicação e apresenta seu protocolo, e chama a transporte
+
+-Transporte
+
+Recebe uma mensagem que é transmitida do objeto a = aplicação, repassa mensagem de a.aplicação e apresenta seu protocolo, e chama a rede
+
+-Rede
+
+Recebe uma mensagem que é transmitida do objeto a = aplicação, repassa mensagem de a.aplicação e apresenta seu protocolo, e chama a enlace
+
+-Enlace
+
+Recebe uma mensagem que é transmitida do objeto a = aplicação, repassa mensagem de a.aplicação e apresenta seu protocolo, e chama a física
+
+-Física
+
+Recebe uma mensagem que é transmitida do objeto a = aplicação, repassa mensagem de a.aplicação e apresenta seu protocolo
+
